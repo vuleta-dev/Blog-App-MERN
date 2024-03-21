@@ -10,12 +10,13 @@ This repository contains the code for a MERN (MongoDB, Express.js, React, Node.j
 
 
 ## Stack
-###Frontend
+
+Frontend
 - Vite
 - React (react router, axios)
 - Tailwind CSS
 
-###Backend
+Backend
 - Node
 - Express
 - Mongodb
