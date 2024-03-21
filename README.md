@@ -15,6 +15,9 @@ Frontend
 - Vite
 - React (react router, axios)
 - Tailwind CSS
+- react-hot-toast
+- react-simple-wysiwyg
+
 
 Backend
 - Node
